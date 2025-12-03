@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    /* Trade bubble animation: flies across the screen and fades out */
+    @keyframes fly-across {
+        0% {
+            left: 0;
+            opacity: 1;
+        }
+        90% {
+            opacity: 1;
+        }
+        100% {
+            left: 100%;
+            opacity: 0;
+        }
+    }
+    .trade-bubble {
+        @apply rounded-full shadow-lg;
+        animation: fly-across 2s linear forwards;
+    }
+
+    /* Time & Sales new item flash */
+    @keyframes flash-item {
+        from {
+            background-color: rgba(255, 255, 0, 0.2);
+        }
+        to {
+            background-color: transparent;
+        }
+    }
+    .trade-item:first-child {
+        animation: flash-item 0.5s ease-out;
+    }
+}
