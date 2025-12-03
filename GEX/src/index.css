@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    @keyframes flash-magenta-animation {
+        0% { background-color: rgba(217, 70, 239, 0); }
+        50% { background-color: rgba(217, 70, 239, 0.3); }
+        100% { background-color: rgba(217, 70, 239, 0); }
+    }
+    .flash-magenta {
+        animation: flash-magenta-animation 0.5s ease-in-out;
+    }
+
+    @keyframes flash-blue-animation {
+        0% { background-color: rgba(59, 130, 246, 0); }
+        50% { background-color: rgba(59, 130, 246, 0.3); }
+        100% { background-color: rgba(59, 130, 246, 0); }
+    }
+    .flash-blue {
+        animation: flash-blue-animation 0.5s ease-in-out;
+    }
+}
