@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .grid-bg {
+        background-color: #000000;
+        background-image:
+            linear-gradient(rgba(128, 0, 128, 0.15) 1px, transparent 1px), /* Purple */
+            linear-gradient(90deg, rgba(255, 0, 255, 0.15) 1px, transparent 1px); /* Magenta */
+        background-size: 2rem 2rem;
+    }
+}
