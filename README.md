@@ -1,6 +1,6 @@
 # Awesome Dashboards
 
-This repository is a collection of awesome dashboards. Each dashboard is a separate project in its own directory. Below is a preview of each dashboard.
+Below is a preview of each dashboard.
 
 ## [AI Predictive Insights](./ai-predictive-insights)
 
@@ -39,4 +39,5 @@ This repository is a collection of awesome dashboards. Each dashboard is a separ
 ## [Orderflow](./orderflow)
 
 ![6tk10N9YAL](https://github.com/user-attachments/assets/3ae0566a-8226-4e34-976c-d12d36962b79)
+
 
