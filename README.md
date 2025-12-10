@@ -48,3 +48,10 @@ Below is a preview of each dashboard.
 
 ![uZRuTKxH](https://github.com/user-attachments/assets/847fe8a6-e9a8-4095-8513-b5b4ab985e4d)
 
+## [Neural Fabric](./neural-fabric)
+
+![chrome_DPwb6wr9Vb](https://github.com/user-attachments/assets/ca85ff34-35a3-457a-ab11-15bf837918fd)
+
+
+
+
