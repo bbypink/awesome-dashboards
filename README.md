@@ -40,4 +40,11 @@ Below is a preview of each dashboard.
 
 ![6tk10N9YAL](https://github.com/user-attachments/assets/3ae0566a-8226-4e34-976c-d12d36962b79)
 
+## [Decentralized Cloud](./decentralized-cloud)
+
+![dSv8Kxy7J](https://github.com/user-attachments/assets/0820002a-5b5e-4fdb-b8c8-9c983bc149d6)
+
+## [Quantum Computing](./quantum-computing)
+
+![uZRuTKxH](https://github.com/user-attachments/assets/847fe8a6-e9a8-4095-8513-b5b4ab985e4d)
 
