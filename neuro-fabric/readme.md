@@ -1,5 +1,1 @@
-# Neuro-Fabric Dashboard
-
-This dashboard visualizes the real-time activity of a neural network, showcasing data flow, neuron firing, and overall network health and performance.
-
-![Neuro-Fabric Dashboard Screenshot](https://github.com/user-attachments/assets/neuro-fabric-placeholder-image)
+![chrome_DPwb6wr9Vb](https://github.com/user-attachments/assets/181de73e-9e71-47b0-95cf-586041facc44)
